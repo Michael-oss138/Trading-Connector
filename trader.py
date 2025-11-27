@@ -1,3 +1,3 @@
-def send-to-trading-bot(signal, dict):
+def sendtotradingbot(signal, dict):
     print("Executing Trade")
     print("signal")

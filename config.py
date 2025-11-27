@@ -1,5 +1,5 @@
-api-id= "API-ID"
-api-hash= "API-HASH"
+apiid= "API-ID"
+apihash= "API-HASH"
 
 CHANNELS = [
     "ChannelUsername1",

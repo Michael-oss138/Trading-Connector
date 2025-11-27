@@ -1,7 +1,7 @@
 import re
 
 
-def parse-signal(message: str):
+def parsesignal(message: str):
     pattern = r"(BUY|SELL)\s+([A-Z]{2,10})\s+([\d.]+)\s*@\s*([\d.]+)"
     match = re.search(pattern, message.upper())
 
